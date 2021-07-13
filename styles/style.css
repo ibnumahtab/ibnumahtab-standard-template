@@ -125,3 +125,7 @@ textarea:focus {
 	outline: none;
 	box-sizing: border-box;
 }
+
+span {
+	color: var();
+}
