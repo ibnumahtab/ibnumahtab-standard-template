@@ -37,7 +37,7 @@
 	00. Import Required Files
 	01. Root - Custom Properties
 	02. Utilities
-	03. 
+	03. Common Class Styles
 	04. 
 	05. 
 	06. 
@@ -128,4 +128,17 @@ textarea:focus {
 
 span {
 	color: var();
+}
+
+/* ----------------------------------
+		03. Common Class Styles	
+---------------------------------- */
+
+.container {
+	max-width: 1200px;
+}
+
+.btn {
+	color: var();
+	background-color: var();
 }
